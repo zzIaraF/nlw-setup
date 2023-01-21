@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+-[visite o projeto online](https://zziaraf.github.io/nlw-setup/)
+
 O habits é um app para ajudar a rastrear os habitos 
 
 
